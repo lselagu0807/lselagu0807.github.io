@@ -23,5 +23,11 @@
             <description>El lenguaje PHP</description>
             <author>Fernando Paniagua</author>
         </item>
+        <item>
+            <title>Prueba de Noticia</title>
+            <link>https://www.rtve.es/noticias/</link>
+            <description>RTVE Noticias</description>
+            <author>Luis Selfa</author>
+        </item>
     </channel>
 </rss>
