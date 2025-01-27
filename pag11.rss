@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <rss>
     <channel>
@@ -6,28 +6,24 @@
         <link>https://www.paraninfo.es/rss</link>
         <description>Canal sobre Programación</description>
         <item>
-            <title>Python</title>
-            <link>https://www.paraninfo.es/rss/python.html</link>
-            <description>El lenguaje Python</description>
-            <author>Fernando Paniagua</author>
-        </item>
-        <item>
-            <title>Java</title>
-            <link>https://www.paraninfo.es/rss/java.html</link>
-            <description>El lenguaje Java</description>
-            <author>Fernando Paniagua</author>
-        </item>
-        <item>
-            <title>PHP</title>
-            <link>https://www.paraninfo.es/rss/php.html</link>
-            <description>El lenguaje PHP</description>
-            <author>Fernando Paniagua</author>
-        </item>
-        <item>
-            <title>Prueba de Noticia</title>
-            <link>https://www.rtve.es/noticias/</link>
-            <description>RTVE Noticias</description>
+            <title>Trump suspende las sanciones a Colombia</title>
+            <link>https://www.rtve.es/noticias/20250126/trump-impondra-sanciones-aranceles-colombia-rechazar-vuelos-deportados/16422837.shtml</link>
+            <description>Noticias EEUU</description>
             <author>Luis Selfa</author>
         </item>
+        <item>
+            <title>Miles de palestinos regresan al norte de Gaza</title>
+            <link>https://www.20minutos.es/noticia/5676001/0/liberacion-rehenes-directo-israel-hamas-gaza/</link>
+            <description>Noticias Gaza</description>
+            <author>Luis Selfa</author>
+        </item>
+        <item>
+            <title>Perú abre la puerta a sus ciudadanos deportados por EEUU</title>
+            <link>https://www.teleprensa.com/articulo/internacional/peru-abre-puerta-ciudadanos-deportados-eeuu-van-tener-todas-facilidades/202501271032302015710.html</link>
+            <description>Noticias Peru</description>
+            <author>Luis Selfa</author>
+        </item>
+        
+        
     </channel>
 </rss>
