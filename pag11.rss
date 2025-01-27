@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<rss>
+    <channel>
+        <title>Lenguajes de Programación</title>
+        <link>https://www.paraninfo.es/rss</link>
+        <description>Canal sobre Programación</description>
+        <item>
+            <title>Python</title>
+            <link>https://www.paraninfo.es/rss/python.html</link>
+            <description>El lenguaje Python</description>
+            <author>Fernando Paniagua</author>
+        </item>
+        <item>
+            <title>Java</title>
+            <link>https://www.paraninfo.es/rss/java.html</link>
+            <description>El lenguaje Java</description>
+            <author>Fernando Paniagua</author>
+        </item>
+        <item>
+            <title>PHP</title>
+            <link>https://www.paraninfo.es/rss/php.html</link>
+            <description>El lenguaje PHP</description>
+            <author>Fernando Paniagua</author>
+        </item>
+    </channel>
+</rss>
