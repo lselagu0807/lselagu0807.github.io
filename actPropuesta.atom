@@ -28,4 +28,11 @@
         <updated>2022-09-04</updated>
         <summary>Noticias Peru</summary>
     </entry>
+    <entry>
+        <title>Prueba Noticia Notificación</title>
+        <link href="https://www.rtve.es/noticias/20250129/ano-nuevo-china-serpiente-2025-madera/16425727.shtml" />
+        <id>https://www.rtve.es/noticias/20250129/ano-nuevo-china-serpiente-2025-madera/16425727.shtml</id> 
+        <updated>2025-01-29</updated>
+        <summary>Noticias Prueba</summary>
+    </entry>
 </feed>
