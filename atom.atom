@@ -2,27 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Noticias Examen</title>
     <link href="https://www.abc.es"/>
-    <updated>2025-02-01T06:00:00Z</updated>
+    <updated>2025-02-05T14:09:00Z</updated>
     <author>
         <name>Luis Selfa</name>
     </author>
+    <id>https://www.abc.es/</id>
     <entry>
         <title>El Gobierno cambia una ley al publicarla en el BOE y da otro paso para legislar al margen de las Cortes</title>
         <link href="https://www.abc.es/espana/gobierno-cambia-ley-publicarla-boe-paso-legislar-20250205203519-nt.html"/>
-        <updated>2025-02-01T06:00:00Z</updated>
-        <summary>Introdujo la modificación, una subida salarial a un grupo de jueces, en el Boletín Oficial del Estado como una 'correción de error' cuando era un olvido
-Los letrados de las Cámaras consultados advierten de que «si se extiende esta práctica se puede introducir lo que se quiera» en el futuro en otras normas</summary>
+        <updated>2025-02-05T14:07:00Z</updated>
+        <summary>Introdujo la modificación, una subida salarial a un grupo de jueces, en el Boletín Oficial del Estado como una 'correción de error' cuando era un olvido.</summary>
     </entry>
     <entry>
         <title>El último 'misil' de la guerra comercial entre EE.UU. y China: Trump prohíbe los envíos de Shein y Temu</title>
         <link href="https://www.abc.es/internacional/ultimo-misil-guerra-comercial-eeuu-china-trump-20250205081014-nt.html"/>
-        <updated>2025-02-01T06:00:00Z</updated>
+        <updated>2025-02-05T14:08:00Z</updated>
         <summary>El Servicio Postal ha informado de la suspensión temporal de la llegada de paquetes del país asiatico</summary>
     </entry>
     <entry>
         <title>Bruselas, contra el modelo Shein: quiere que los paquetes importados de bajo valor también paguen aranceles</title>
         <link href="https://www.abc.es/economia/comision-europea-presenta-medidas-protegerse-aluvion-paquetes-20250205130731-nt.html"/>
-        <updated>2025-02-01T06:00:00Z</updated>
+        <updated>2025-02-05T14:09:00Z</updated>
         <summary>Propone la eliminación de la exención arancelaria de 150 euros, por debajo de la cual los productos importados están libres de carga</summary>
     </entry>
 </feed>
