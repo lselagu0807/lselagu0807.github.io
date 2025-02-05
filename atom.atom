@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Noticias Examen</title>
     <link href="https://www.abc.es"/>
-    <updated>2025-02-05T14:09:00Z</updated>
+    <updated>2025-02-05T14:10:00Z</updated>
     <author>
         <name>Luis Selfa</name>
     </author>
@@ -24,5 +24,11 @@
         <link href="https://www.abc.es/economia/comision-europea-presenta-medidas-protegerse-aluvion-paquetes-20250205130731-nt.html"/>
         <updated>2025-02-05T14:09:00Z</updated>
         <summary>Propone la eliminación de la exención arancelaria de 150 euros, por debajo de la cual los productos importados están libres de carga</summary>
+    </entry>
+    <entry>
+        <title>Todo lo que se sabe sobre el tiroteo en Suecia que ha dejado alrededor de once muertos</title>
+        <link href="https://www.abc.es/internacional/sabe-sobre-tiroteo-suecia-dejado-alrededor-diez-20250205210528-nt.html"/>
+        <updated>2025-02-05T14:10:00Z</updated>
+        <summary>La Policía cree que el autor del crimen, que murió en el operativo, actuaba solo y descartó la motivación terrorista</summary>
     </entry>
 </feed>
