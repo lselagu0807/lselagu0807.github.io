@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <tittle>Noticias Examen</tittle>
+        <title>Noticias Examen</title>
         <link>https://www.abc.es</link>
         <description>Noticias para el Examen de RSS y ATOM</description>
         <item>
