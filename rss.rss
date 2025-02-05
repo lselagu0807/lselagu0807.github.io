@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <tittle>Noticias Examen</tittle>
+        <link>https://www.abc.es</link>
+        <description>Noticias para el Examen de RSS y ATOM</description>
+        <item>
+            <title>El Gobierno cambia una ley al publicarla en el BOE y da otro paso para legislar al margen de las Cortes</title>
+            <link>https://www.abc.es/espana/gobierno-cambia-ley-publicarla-boe-paso-legislar-20250205203519-nt.html</link>
+            <description>Introdujo la modificación, una subida salarial a un grupo de jueces, en el Boletín Oficial del Estado como una 'correción de error' cuando era un olvido
+Los letrados de las Cámaras consultados advierten de que «si se extiende esta práctica se puede introducir lo que se quiera» en el futuro en otras normas</description>
+            <pubDate></pubDate>
+        </item>
+        <item>
+            <title>El último 'misil' de la guerra comercial entre EE.UU. y China: Trump prohíbe los envíos de Shein y Temu</title>
+            <link>https://www.abc.es/internacional/ultimo-misil-guerra-comercial-eeuu-china-trump-20250205081014-nt.html</link>
+            <description>El Servicio Postal ha informado de la suspensión temporal de la llegada de paquetes del país asiatico</description>
+            <pubDate></pubDate>
+        </item>
+        <item>
+            <title>Bruselas, contra el modelo Shein: quiere que los paquetes importados de bajo valor también paguen aranceles</title>
+            <link>https://www.abc.es/economia/comision-europea-presenta-medidas-protegerse-aluvion-paquetes-20250205130731-nt.html</link>
+            <description>Propone la eliminación de la exención arancelaria de 150 euros, por debajo de la cual los productos importados están libres de carga</description>
+            <pubDate></pubDate>
+        </item>
+    </channel>
+</rss>
